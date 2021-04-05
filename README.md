@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aster Rebeiro
-- 👀 I have created project in spring hibernate, spring boot and and (MEAN stack)nodejs(server) and angular(client)
+- 👀 I have created project in spring hibernate, spring boot and (MEAN stack)nodejs(server) and angular(client)
 - 🌱 I’m currently in my 3 year and learning full stack development
 - 💞️ I’m looking for JOB as a frontend or backend developer...
 - 📫 Reach me by Email - asterrebeiro69@gmail.com
