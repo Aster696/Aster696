@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aster Rebeiro
+- 👋 Hi, I’m Aster
 - 👀 I have created project in spring hibernate, spring boot and MEAN stack
 - 🌱 I’m currently in my 3 year and learning full stack development
 - 💞️ I’m looking for JOB as a frontend or backend developer...
