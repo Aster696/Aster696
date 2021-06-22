@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aster
 - 👀 I have created project in spring hibernate, spring boot and MEAN stack
-- 🌱 I have compleated full stack development course from niit
+- 🌱 I have compleated full stack development course
 - 📫 Reach me by Email
 
 <!---
