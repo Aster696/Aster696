@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Aster
+- 👋 Hi, I’m Aster, currently working as Angular developer at Codezen Tech Solutions
 - 👀 I have created project in spring hibernate, spring boot, MEAN stack, MERN stack, react native, django.
 - 🔏 Most of my projects are private so you will not see all my projects.
-- 🌱 I have compleated full stack development
+- 🌱 I have compleated full stack development from NIIT
 - 📫 Reach me by Email or github
 
 <!---
